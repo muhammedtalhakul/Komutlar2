@@ -70,10 +70,8 @@ Yöntem 1: Resmi Depoya Yüklemek ve Markdown Dosyasında Kullanmak
 
 2.	Markdown Dosyasında Resmi Kullanmak:
    • Resminizi Markdown dosyasında görüntülemek için aşağıdaki Markdown sözdizimini kullanın:
-   ![Resim Açıklaması](resim_dosya_yolu)
-  	Örneğin, images adlı bir klasörde example.png adlı bir resminiz varsa:
-  	![Örnek Resim](images/example.png)
-
+     	Örneğin, images adlı bir klasörde example.png adlı bir resminiz varsa:
+  
 Yöntem 2: GitHub Arayüzünü Kullanarak Resim Yüklemek
   1.	GitHub Arayüzünü Kullanarak Resmi Yükleyin:
   •	GitHub deposuna gidin ve Add file butonuna tıklayın, ardından Upload files seçeneğini seçin.
@@ -82,8 +80,7 @@ Yöntem 2: GitHub Arayüzünü Kullanarak Resim Yüklemek
 
  2.   Markdown Dosyasında Resmi Kullanmak:
   •   Eklediğiniz resmin URL'sini kopyalayın ve Markdown dosyanızda kullanın:
-      ![Resim Açıklaması](https://github.com/kullanici_adi/depo_adi/raw/branch_adi/resim_dosya_yolu)
-      ![Örnek Resim](https://github.com/kullanici_adi/depo_adi/raw/main/images/example.png)
+      
 
 Yöntem 3: GitHub Issues veya Pull Requests Kullanarak Resim Yüklemek
   1.	GitHub Issues veya Pull Requests Kullanarak Resim Yükleyin:
@@ -93,5 +90,4 @@ Yöntem 3: GitHub Issues veya Pull Requests Kullanarak Resim Yüklemek
   2.	Markdown Dosyasında Resmi Kullanmak:
   •	Kopyaladığınız URL'yi Markdown dosyanızda kullanın:
       ![Resim Açıklaması](resim_URL)
-    	![Örnek Resim](https://user-images.githubusercontent.com/kullanici_adi/resim_id.png)
-![images](https://github.com/user-attachments/assets/7dda0b7c-ef35-4f1f-b04d-7709abdf4545)
+    	
